@@ -1,4 +1,4 @@
-module basics
+module go-mongodb-crud-operations
 
 go 1.20
 
